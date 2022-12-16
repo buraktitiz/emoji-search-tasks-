@@ -1,6 +1,6 @@
 https://emoji-search-tasks.vercel.app/
 
-
+![Emoji Search Tasks](https://github.com/buraktitiz/react-task/blob/master/emoji-search-tasks/public/emoji-search-tasks.png)
 
 # Getting Started with Create React App
 
